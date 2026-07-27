@@ -1,7 +1,5 @@
 # my defined
-kafka
-flink
-spark
+
 
 # IM 系统 
 nginx
@@ -13,30 +11,3 @@ minio/minio:RELEASE.2024-01-11T07-46-16Z
 prom/prometheus:v2.51.2
 prom/alertmanager:v0.27.0
 grafana/grafana:10.4.2
-quay.io/coreos/etcd:v3.5.13
-openim/openim-web-front:release-v3.5.1
-openim/openim-admin-front:release-v1.7
-prom/node-exporter:v1.7.0
-openim/openim-server:release-v3.7
-openim/openim-chat:release-v1.7
-
-# v2ray
-mzz2017/v2raya
-v2fly/v2fly-core
-
-# zxhacker server
-freshrss/freshrss
-
-# kali images
-kalilinux/kali-rolling
-kalilinux/kali-last-release
-kalilinux/kali-dev
-kalilinux/kali-bleeding-edge
-kalilinux/kali-experimental
-
-
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
