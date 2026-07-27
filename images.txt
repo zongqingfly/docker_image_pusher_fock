@@ -1,3 +1,7 @@
+# my defined
+kafka
+flink
+spark
 
 # IM 系统 
 nginx
