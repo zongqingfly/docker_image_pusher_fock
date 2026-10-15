@@ -1,13 +1,8 @@
-# my defined
-
-
-# IM 系统 
 nginx
 mysql
 mongo
 redis
-bitnami/kafka:3.5.1
-minio/minio:RELEASE.2024-01-11T07-46-16Z
 prom/prometheus:v2.51.2
 prom/alertmanager:v0.27.0
 grafana/grafana:10.4.2
+jenkins/jenkins:lts-jdk21
